@@ -1,0 +1,56 @@
+.login-header{
+    height: 0.8rem;
+    font-size: 0.4rem;
+    width: 100vw;
+    margin: 0 auto;
+    line-height: 0.8rem;
+    text-align: center;
+    color: #fff;
+    background-color: #FF9900;
+}
+
+.login-inp{
+    width: 100vw;
+    margin: 2rem auto;
+    text-align: center;
+}
+.login-inp div{
+    width: 100%;
+    margin:  0.4rem 0;
+    color: #aaa;
+}
+.login-inp div input{
+    height: 0.6rem;
+}
+.login-inp .login-txt{
+    overflow: hidden;
+}
+.login-T{
+    margin: 0;
+}
+.login-T .login-txt span{
+    margin-left: 50px;
+    font-size: 0.3rem;
+}
+.login-T .login-txt em{
+    margin-left: 50px;
+    font-size: 0.3rem;
+}
+.login-T .login-txt a{
+    font-size: 0.3rem;
+    color:  #1795C0;
+    text-decoration: dashed;
+}
+.login-inp .login-cz span{
+    font-size: 0.3rem;
+    color: #1795C0;
+}
+.login .login-but button{
+    width: 75vw;
+    height: 0.8rem;
+    border: none;
+    margin: 0 auto;
+    border-radius: 0.1rem;
+    background-color: #FF9900;
+    color: #fff;
+}
